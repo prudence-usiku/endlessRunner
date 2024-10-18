@@ -1,0 +1,3 @@
+﻿  ParallaxBackground.cpp
+C:\Users\asus\Desktop\C++\endlessRunner\ParallaxBackground.cpp(12,49): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  endlessRunner.vcxproj -> C:\Users\asus\Desktop\C++\endlessRunner\x64\Debug\endlessRunner.exe
